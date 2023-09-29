@@ -1,0 +1,9 @@
+.contain{
+    width: 450px;
+}
+@media (max-width: 500px) {
+    .contain{
+        width: 330px;
+    }
+  }
+  
